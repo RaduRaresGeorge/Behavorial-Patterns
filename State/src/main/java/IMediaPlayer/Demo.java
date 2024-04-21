@@ -3,7 +3,7 @@ package src.main.java.IMediaPlayer;
 import src.main.java.IMediaPlayer.ui.*;
 
 /**
- * src.main.java.IMediaPlayer.Demo class. Everything comes together here.
+ * src.main.java.IMediaPlayer.src.main.java.PaymentMethod.Demo class. Everything comes together here.
  */
 public class Demo {
     public static void main(String[] args) {

@@ -7,7 +7,7 @@ import src.main.java.NotesApp.mediator.Editor;
 import javax.swing.*;
 
 /**
- * src.main.java.NotesApp.src.main.java.EventSubscription.src.main.java.IMediaPlayer.Demo class. Everything comes together here.
+ * src.main.java.NotesApp.src.main.java.EventSubscription.src.main.java.IMediaPlayer.src.main.java.PaymentMethod.Demo class. Everything comes together here.
  */
 public class Demo {
     public static void main(String[] args) {
