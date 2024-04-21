@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * src.main.java.NotesApp.src.main.java.EventSubscription.Demo class. Everything comes together here.
+ * src.main.java.NotesApp.src.main.java.EventSubscription.src.main.java.IMediaPlayer.Demo class. Everything comes together here.
  */
 public class Demo {
     private static BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
