@@ -1,6 +1,6 @@
 package src.main.java.NotesApp;
 
-import components.*;
+import src.main.java.NotesApp.components.*;
 import src.main.java.NotesApp.mediator.Mediator;
 import src.main.java.NotesApp.mediator.Editor;
 
