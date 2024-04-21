@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * Demo class. Everything comes together here.
+ * src.main.java.NotesApp.Demo class. Everything comes together here.
  */
 public class Demo {
     public static Scanner scanner = new Scanner(System.in);
