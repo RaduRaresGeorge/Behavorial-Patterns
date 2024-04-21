@@ -1,5 +1,5 @@
-# Behavorial Pattern - Iterator
+# Behavorial Pattern - Mediator
 
     Implemented by Radu Rares George
 
-![Iterator](src/main/resources/structure_Iterator.png)  
+![Mediator](src/main/resources/structure_Mediator.png)
