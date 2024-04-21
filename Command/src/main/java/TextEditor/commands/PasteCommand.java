@@ -1,6 +1,6 @@
-package src.main.java.commands;
+package src.main.java.TextEditor.commands;
 
-import src.main.java.editor.Editor;
+import src.main.java.TextEditor.editor.Editor;
 
 
 public class PasteCommand extends Command {

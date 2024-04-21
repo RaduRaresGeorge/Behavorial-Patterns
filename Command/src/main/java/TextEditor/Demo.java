@@ -1,6 +1,6 @@
-package src.main.java;
+package src.main.java.TextEditor;
 
-import src.main.java.editor.Editor;
+import src.main.java.TextEditor.editor.Editor;
 
 public class Demo {
     public static void main(String[] args) {

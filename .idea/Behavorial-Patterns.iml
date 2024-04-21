@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/ChainOfResponsability" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ChainOfResponsibility" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Command" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Iterator" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

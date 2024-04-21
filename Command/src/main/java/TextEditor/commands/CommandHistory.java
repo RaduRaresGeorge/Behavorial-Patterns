@@ -1,4 +1,4 @@
-package src.main.java.commands;
+package src.main.java.TextEditor.commands;
 
 import java.util.Stack;
 

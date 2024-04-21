@@ -1,6 +1,6 @@
-package src.main.java.editor;
+package src.main.java.TextEditor.editor;
 
-import src.main.java.commands.*;
+import src.main.java.TextEditor.commands.*;
 
 import javax.swing.*;
 import java.awt.*;
