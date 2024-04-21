@@ -1,4 +1,4 @@
-package src.main.java.networks;
+package src.main.java.SocialNetwork.networks;
 
 /**
  * Base class of social network.

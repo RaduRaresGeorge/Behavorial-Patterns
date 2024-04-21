@@ -1,8 +1,8 @@
-package src.main.java;
+package src.main.java.SocialNetwork;
 
-import src.main.java.networks.Facebook;
-import src.main.java.networks.Network;
-import src.main.java.networks.Twitter;
+import src.main.java.SocialNetwork.networks.Facebook;
+import src.main.java.SocialNetwork.networks.Network;
+import src.main.java.SocialNetwork.networks.Twitter;
 
 import java.io.BufferedReader;
 import java.io.IOException;
