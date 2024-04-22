@@ -1,4 +1,4 @@
-package src.main.java.Handlers;
+package src.main.java.Example.example_handler;
 
 public abstract class AbstractHandler implements Handler {
     protected Handler next;

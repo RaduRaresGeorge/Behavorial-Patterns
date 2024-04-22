@@ -1,4 +1,8 @@
-package src.main.java.Handlers;
+package src.main.java.Example;
+
+import src.main.java.Example.example_concrete_handlers.ConcreteHandler1;
+import src.main.java.Example.example_concrete_handlers.ConcreteHandler2;
+import src.main.java.Example.example_handler.Handler;
 
 public class Client {
     public static void main(String[] args) {

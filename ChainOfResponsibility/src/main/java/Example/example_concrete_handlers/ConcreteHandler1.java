@@ -1,4 +1,6 @@
-package src.main.java.Handlers;
+package src.main.java.Example.example_concrete_handlers;
+
+import src.main.java.Example.example_handler.AbstractHandler;
 
 public class ConcreteHandler1 extends AbstractHandler {
     @Override
